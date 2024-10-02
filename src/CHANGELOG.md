@@ -1,5 +1,17 @@
 # viem
 
+## 2.21.17
+
+### Patch Changes
+
+- [#2803](https://github.com/wevm/viem/pull/2803) [`08da9bd5`](https://github.com/wevm/viem/commit/08da9bd54776744dab82cfb574b6a9bca37c4bda) Thanks [@kevinb1003](https://github.com/kevinb1003)! - Added Zircuit chain.
+
+- [#2800](https://github.com/wevm/viem/pull/2800) [`be02ea54`](https://github.com/wevm/viem/commit/be02ea54044b6645aa756a0cbb08f4d41fbebaa9) Thanks [@CeoFred](https://github.com/CeoFred)! - Added `assetChain` chain.
+
+- [#2798](https://github.com/wevm/viem/pull/2798) [`0f83248f`](https://github.com/wevm/viem/commit/0f83248faf93ccab82f768c04eafb230d3d5bbc4) Thanks [@aaronmgdr](https://github.com/aaronmgdr)! - Added OP Stack contracts to Celo Alfajores.
+
+- [#2799](https://github.com/wevm/viem/pull/2799) [`5b50774c`](https://github.com/wevm/viem/commit/5b50774c1069db7183ccfa4468290b1c87678182) Thanks [@impelcrypto](https://github.com/impelcrypto)! - Updated Soneium Minato Testnet
+
 ## 2.21.16
 
 ### Patch Changes
